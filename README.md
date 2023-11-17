@@ -1,4 +1,5 @@
 # wwdc-A3
+Failed Pages that were originally meant to be used 
 
 WeaStyle is initially a conceptualised website to assist with styling matters related to the weather. Initially, the project included several APIs, including Google Maps for Geolocation-friendly advice and Pinterest API to help users understand the available styles. 
 
