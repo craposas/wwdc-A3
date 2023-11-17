@@ -1,9 +1,13 @@
+To access the website:
+https://craposas.github.io/wwdc-A3/posts.html
+
 WeaStyle is initially a conceptualised website to assist with styling matters related to the weather. Initially, the project included several APIs, including Google Maps for Geolocation-friendly advice and Pinterest API to help users understand the available styles. 
 
 The current state of Weastyle is highly buggy and incomplete due to inexperience with HTML, CSS and Javascript; the project ended up being bigger than anticipated. Hence, the state it is in now. In its current state, there are new tabs with smaller projects inside them, a to-do list to assist users with what they need to remember for their fashion needs, a posts/blog area for users to read up on new fashion updates relating to different seasons; a profile section for users to edit their accounts and a weather widget that remains incomplete that is meant to sit on the home page however disrupts the flow of the registration and login pop up. 
 
 The debugging process was done on Google Chrome and hence should mainly run well on the platform; however, when using VSCode users may need to be aware of debugging containers, having Javascript, HTML, and CSS already set up on their device's local VSCode to look at the code correctly. 
 
+To find the final files please head to branch craposas-final
 Included Files:
 HTML File: Contains the primary text used to create the website
 Code to be Used for Final:
