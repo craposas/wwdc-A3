@@ -53,7 +53,7 @@ I did not realise while making the weather widget; users would have to share the
 <img width="1352" alt="Screenshot 2023-11-15 at 11 25 25 pm" src="https://github.com/craposas/wwdc-A3/assets/148730754/ddd523ed-0098-4b73-b83d-50cc04e62044">
 These were from the first weather widget (the code can be found in inactive code inside index.html. This weather widget had become buggy and was not displaying the correct screen while also disrupting the log-in popup. 
 
-<img width="1352" alt="Screenshot 2023-11-15 at 9 34 11 pm" src="https://github.com/craposas/wwdc-A3/assets/148730754/ed39e581-1ed2-44cc-aeec-5169ce148f6d">
+<img width="670" alt="Screenshot 2023-11-15 at 9 34 11 pm" src="https://github.com/craposas/wwdc-A3/assets/148730754/e25fe61c-4e29-4f91-b32a-555d411cd473">
 <img width="1352" alt="Screenshot 2023-11-15 at 10 56 52 pm" src="https://github.com/craposas/wwdc-A3/assets/148730754/9f4c95cc-7223-40db-99b4-16583eb020cf">
 I had further issues with all the line code I couldn't figure out where one of the brackets went as I got confused as there were too many to look at and were visually just extremely confusing to analyse and understand. It was not functioning the way that it should hence a more frustrated work around.
 
