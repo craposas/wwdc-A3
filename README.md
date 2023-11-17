@@ -1,5 +1,3 @@
-<img width="1352" alt="Screenshot 2023-11-17 at 4 45 24 am" src="https://github.com/craposas/wwdc-A3/assets/148730754/adafffce-6266-400c-97d9-95190c76de01"><img width="1352" alt="Screenshot 2023-11-15 at 10 56 52 pm" src="https://github.com/craposas/wwdc-A3/assets/148730754/f1a8a525-b1f2-495d-a951-9263b6fdae39"># wwdc-A3
-
 WeaStyle is initially a conceptualised website to assist with styling matters related to the weather. Initially, the project included several APIs, including Google Maps for Geolocation-friendly advice and Pinterest API to help users understand the available styles. 
 
 The current state of Weastyle is highly buggy and incomplete due to inexperience with HTML, CSS and Javascript; the project ended up being bigger than anticipated. Hence, the state it is in now. In its current state, there are new tabs with smaller projects inside them, a to-do list to assist users with what they need to remember for their fashion needs, a posts/blog area for users to read up on new fashion updates relating to different seasons; a profile section for users to edit their accounts and a weather widget that remains incomplete that is meant to sit on the home page however disrupts the flow of the registration and login pop up. 
@@ -68,3 +66,6 @@ When learning how to do the weather widget I found it confusing adding APIs but 
 <img width="1352" alt="Screenshot 2023-11-17 at 4 02 31 am" src="https://github.com/craposas/wwdc-A3/assets/148730754/156489cf-dd1c-426b-81c3-e359e90e2a19">
 <img width="1352" alt="Screenshot 2023-11-17 at 4 45 24 am" src="https://github.com/craposas/wwdc-A3/assets/148730754/0b8b2694-007f-4ffa-b523-9ac3925cd128">
 Furthermore, since I originally had all the cs and js files together, I was getting confused what I renamed each folder and file. With the images I did not realise you had to be able to tag and link them through their folders and subfolders hence having go through all the files. I also realised there were errors due to the fact I also misspelt some words hence it was reading wrong.
+
+<img width="1352" alt="Screenshot 2023-11-17 at 4 45 24 am" src="https://github.com/craposas/wwdc-A3/assets/148730754/adafffce-6266-400c-97d9-95190c76de01">
+<img width="1352" alt="Screenshot 2023-11-15 at 10 56 52 pm" src="https://github.com/craposas/wwdc-A3/assets/148730754/f1a8a525-b1f2-495d-a951-9263b6fdae39"># wwdc-A3
