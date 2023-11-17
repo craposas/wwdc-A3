@@ -7,9 +7,14 @@ The current state of Weastyle is highly buggy and incomplete due to inexperience
 The debugging process was done on Google Chrome and hence should mainly run well on the platform; however, when using VSCode users may need to be aware of debugging containers, having Javascript, HTML, and CSS already set up on their device's local VSCode to look at the code correctly. 
 
 Included Files:
-HTML File: Contains the primary text used to create the website - The correct files for this would be index.html, profile.html, to-do.html, posts.html
-CSS File: Contains the decorative and visual aids in the HTML text file - The correct file for this would be ver 2.css
-JavaScript File: Contains the links for each button to work and the incomplete code for the weather widget - The correct File for this would be ver 2.js
+HTML File: Contains the primary text used to create the website
+Code to be Used for Final:
+
+CSS File: Contains the decorative and visual aids in the HTML text file
+Code to be Used for Final:
+
+JavaScript File: Contains the links for each button to work and the incomplete code for the weather widget
+Code to be Used for Final:
 
 <img width="1352" alt="Screenshot 2023-10-30 at 10 53 47 am" src="https://github.com/craposas/wwdc-A3/assets/148730754/b06855b9-9e9b-4272-8db6-6adc4ab7f0af">
 I had major issues with running the website on a live server. The website's current state is completely based on what I could see at the time.
