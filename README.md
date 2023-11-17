@@ -68,4 +68,5 @@ When learning how to do the weather widget I found it confusing adding APIs but 
 Furthermore, since I originally had all the cs and js files together, I was getting confused what I renamed each folder and file. With the images I did not realise you had to be able to tag and link them through their folders and subfolders hence having go through all the files. I also realised there were errors due to the fact I also misspelt some words hence it was reading wrong.
 
 <img width="1352" alt="Screenshot 2023-11-17 at 4 45 24 am" src="https://github.com/craposas/wwdc-A3/assets/148730754/adafffce-6266-400c-97d9-95190c76de01">
-<img width="1352" alt="Screenshot 2023-11-15 at 10 56 52 pm" src="https://github.com/craposas/wwdc-A3/assets/148730754/f1a8a525-b1f2-495d-a951-9263b6fdae39"># wwdc-A3
+<img width="1352" alt="Screenshot 2023-11-15 at 10 56 52 pm" src="https://github.com/craposas/wwdc-A3/assets/148730754/f1a8a525-b1f2-495d-a951-9263b6fdae39">
+Weastyle extra screenshots
